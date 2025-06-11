@@ -12,10 +12,6 @@ A fully automated, serverless ETL pipeline that extracts data from Spotify API, 
 **Project Description:**  
 Serverless ETL pipeline for Spotify analytics leveraging AWS Lambda, Amazon S3, Snowpipe, and Snowflake, with Power BI dashboards for near real-time data insights.
 
-## 📊 Project Architecture
-
-![Spotify ETL Pipeline Architecture](assets/spotify_pipeline_architecture.png)
-
 ## Overview
 
 This project implements a **serverless ETL pipeline** to extract data from the Spotify API, transform it, and load it into Snowflake for advanced analytics and visualization using Power BI.
