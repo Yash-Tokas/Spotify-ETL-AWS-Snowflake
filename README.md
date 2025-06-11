@@ -93,7 +93,3 @@ It demonstrates key data engineering concepts:
 - Business analytics and visualization.
 
 ---
-
-## 📈 Project Summary (for LinkedIn / Portfolio / GitHub pinned repo)
-
-**Designed and implemented an automated Spotify Analytics ETL pipeline leveraging AWS Lambda, S3, Snowpipe, and Snowflake. The solution extracts data from Spotify API, transforms it in real-time, and loads it into Snowflake for advanced visualization in Power BI. The architecture is fully serverless and scalable, enabling near real-time Spotify data insights. Great example of modern data engineering practices using cloud-native tools.**
